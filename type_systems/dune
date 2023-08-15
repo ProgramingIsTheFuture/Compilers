@@ -1,2 +1,2 @@
 (executables
- (names tlc linear inference sum_types))
+ (names tlc linear inference sum_types bidirectional))
